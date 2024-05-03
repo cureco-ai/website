@@ -1,2 +1,2 @@
 # website
-Website for Cure Co 
+Landing page for cureco.ai
