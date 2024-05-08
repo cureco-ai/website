@@ -1,6 +1,6 @@
 import Home from './Home';
 import Email from './Email';
-import Footer from './Footer';
+// import Footer from './Footer';
 
 
 function App() {
@@ -9,7 +9,7 @@ function App() {
       
       <Home />
       <Email />
-      <Footer />
+      {/* <Footer /> */}
     </div>
   );
 }
